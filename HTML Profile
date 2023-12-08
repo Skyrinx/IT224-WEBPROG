@@ -1,0 +1,43 @@
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>My Profile</title>
+</head>
+<body>S
+
+<body background="greenbg.png">
+
+<center>
+
+<br> <h1 style="font-family: 'Cooper Black'; color: rgb(91, 130, 144); font-size: 40px;">Get to know me!</h1>
+
+<img src="skpfp.jpg" alt="Profile" width="300" height="300">
+
+<h2 style="font-family:Cooper Black; color: rgb(91, 130, 144);">Dingle, Skye Aynjel Wayne </h2>
+
+<h3 style="color:rgb(91, 130, 144);"> About me </h3>
+
+<p style="color:rgb(91, 130, 144);"> a former art student who thrives and collects new knowledge as an IT student. <br>Skye enjoys the arts; in the past, he enjoyed making films, <br>but these days, he is more engaged in programming. After graduating, <br> Skye wants to pursue a career as a front-end or web developer. </p>
+
+<h3 style="color:rgb(91, 130, 144);"> Age: 19 </h3>
+
+
+<h3 style="color:rgb(91, 130, 144);"> Born on: <i>May 11, 2004 </i></h3>
+
+
+<h3 style="color:rgb(91, 130, 144);"> Studying at National University Fairview </h3>
+
+<h3 style="color:rgb(91, 130, 144);"> Quezon City, Philippines </h3>
+
+
+
+<p><pre style="color:rgb(91, 130, 144);">"Remember that the happiest people are not those getting more,<br> but those giving more."</p>
+
+<a href=https://www.behance.net/skyedingle>Behance Profile</a>
+
+
+</center>
+
+</body>
+</html>
